@@ -40,8 +40,8 @@ const ContactSection = () => {
               <div>
                 <p className="font-semibold text-foreground">Address</p>
                 <p className="text-sm text-muted-foreground mt-1">
-                  123, Fashion Street, Near City Mall,<br />
-                  Mumbai, Maharashtra 400001
+                  Near SSM Higher Secondary, Parray Pora,<br />
+                  Hyderpora, Srinagar, Jammu &amp; Kashmir 190005
                 </p>
               </div>
             </div>
