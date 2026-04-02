@@ -20,7 +20,7 @@ const ContactSection = () => {
           {/* Map */}
           <div className="rounded-2xl overflow-hidden h-[350px] md:h-auto shadow-lg">
             <iframe
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3153.019112473648!2d-122.419415!3d37.774929!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzfCsDQ2JzI5LjciTiAxMjLCsDI1JzA5LjkiVw!5e0!3m2!1sen!2sus!4v1234567890"
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3304.073!2d74.7955!3d34.0837!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x38e1856e0e1a7c5d%3A0x1234567890abcdef!2sSSM%20Higher%20Secondary%20School%2C%20Parray%20Pora%2C%20Hyderpora%2C%20Srinagar!5e0!3m2!1sen!2sin!4v1700000000000"
               width="100%"
               height="100%"
               style={{ border: 0, minHeight: 350 }}
